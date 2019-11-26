@@ -1,4 +1,4 @@
-//https://www.acmicpc.net/source/16254723
+//https://www.acmicpc.net/problem/11047
 //동전 개수 최소값 구하기
 
 #define _CRT_SECURE_NO_WARNINGS
