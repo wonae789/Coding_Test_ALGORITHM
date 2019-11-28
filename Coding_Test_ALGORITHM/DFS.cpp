@@ -20,7 +20,7 @@ void dfs(int R, int NODE, int arr[][30], int* visited)
 int main()
 {
 	int NODE;
-	int arr[30][30]; 
+	int arr[30][30];
 	int visited[30] = { 0, };// 지역변수는 쓰레기값, 전역변수는 1로 초기화
 	int START;
 	cin >> NODE >> START;
