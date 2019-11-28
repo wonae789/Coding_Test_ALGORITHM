@@ -44,7 +44,7 @@ int main()
 		for (int k = 0; k <= i; k++)
 		{
 			sum += arry[k];
-		}
+					}
 	}
 
 	printf("%d", sum);
